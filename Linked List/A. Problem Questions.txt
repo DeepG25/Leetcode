@@ -4,3 +4,5 @@ Problem Statement:
 2) Reverse Linked List
 3) Delete Node in a Linked List
 4) Merge Two Sorted Lists
+5) Remove Duplicates from Sorted List
+6) Linked List Cycle
