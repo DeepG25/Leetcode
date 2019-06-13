@@ -1,0 +1,6 @@
+Problem Statement:
+
+1) Remove Outermost Parentheses
+2) Remove All Adjacent Duplicates In String
+3) Baseball Game
+4) Next Greater Element I
