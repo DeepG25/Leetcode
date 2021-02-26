@@ -1,0 +1,3 @@
+Contribution to repo is open
+
+Please make sure will contributing you add codes for different data structures in their respective folders
